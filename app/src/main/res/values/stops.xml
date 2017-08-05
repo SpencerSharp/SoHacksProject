@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stops_array">
+        <item>4925 Craigwood/FM 969</item>
+        <item>200 Trinity/2nd</item>
+        <item>851 Rutland/Park Village</item>
+        <item>4925 Craigwood/FM 969</item>
+        <item>200 Trinity/2nd</item>
+        <item>851 Rutland/Park Village</item>
+        <item>4925 Craigwood/FM 969</item>
+        <item>200 Trinity/2nd</item>
+        <item>851 Rutland/Park Village</item>
+        <item>4925 Craigwood/FM 969</item>
+        <item>200 Trinity/2nd</item>
+        <item>851 Rutland/Park Village</item>
+        <item>4925 Craigwood/FM 969</item>
+        <item>200 Trinity/2nd</item>
+        <item>851 Rutland/Park Village</item>
+    </string-array>
+</resources>
